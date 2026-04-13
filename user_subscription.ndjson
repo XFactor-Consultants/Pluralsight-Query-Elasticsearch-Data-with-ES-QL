@@ -1,0 +1,120 @@
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1000", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1001", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1002", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1003", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1004", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1005", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1006", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1007", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1008", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1009", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1010", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1011", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1012", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1013", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1014", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1015", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1016", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1017", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1018", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1019", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1020", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1021", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1022", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1023", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1024", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1025", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1026", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1027", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1028", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1029", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1030", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1031", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1032", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1033", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1034", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1035", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1036", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1037", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1038", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1039", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1040", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1041", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1042", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1043", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1044", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1045", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1046", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1047", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1048", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1049", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1050", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1051", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1052", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1053", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1054", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1055", "subscription_tier": "enterprise"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1056", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1057", "subscription_tier": "pro"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1058", "subscription_tier": "free"}
+{"index": {"_index": "user_subscription"}}
+{"user_id": "user_1059", "subscription_tier": "enterprise"}

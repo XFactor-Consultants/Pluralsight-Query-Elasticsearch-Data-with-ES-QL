@@ -1,0 +1,16 @@
+{"index": {"_index": "service_metadata"}}
+{"service_name": "auth-service", "team_owner": "Platform", "environment": "production"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "payment-service", "team_owner": "Payments", "environment": "production"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "search-service", "team_owner": "Discovery", "environment": "production"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "recommendation-api", "team_owner": "Discovery", "environment": "production"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "user-profile-api", "team_owner": "Identity", "environment": "production"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "checkout-service", "team_owner": "Payments", "environment": "production"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "inventory-api", "team_owner": "Logistics", "environment": "staging"}
+{"index": {"_index": "service_metadata"}}
+{"service_name": "notification-svc", "team_owner": "Platform", "environment": "staging"}
