@@ -21,7 +21,7 @@ Every query demonstrated across all four modules runs against these indices.
 
 -Create an account on https://www.elastic.co/kibana 
 
--Familiarize yourself with basics of the site: we'll be spending most time in 'Elastisearc -> discover', but we'll also use DevTools(the gear icon) to set up our data. 
+-Familiarize yourself with basics of the site: we'll be spending most time in 'Elastisearch -> discover', but we'll also use DevTools(the gear icon) to set up our data. 
 
 ---
 
