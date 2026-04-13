@@ -23,6 +23,8 @@ Every query demonstrated across all four modules runs against these indices.
 
 -Familiarize yourself with basics of the site: we'll be spending most time in 'Elastisearch -> discover', but we'll also use DevTools(the gear icon) to set up our data. 
 
+-It's good to have python3 installed to generate fresh datasets, as well as some command line experience. You can also use the provided files, but set the timeframe setup in the ESQL editor to a large amount of time(look at the timestamps in the data files and base it off that. Python setup highy reccomended!)
+
 ---
 
 ## Step 1 — Create the `logs-web` index
