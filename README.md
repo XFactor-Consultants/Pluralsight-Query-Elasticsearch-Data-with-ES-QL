@@ -19,24 +19,15 @@ Every query demonstrated across all four modules runs against these indices.
 
 ## Prerequisites
 
-- Elasticsearch 8.11 or later (ES|QL and LOOKUP JOIN require 8.11+)
-- Kibana connected to the same cluster
-- `curl` or the Kibana Dev Tools console to run the setup commands below
-
-Set your cluster credentials before running any curl commands:
-
-```bash
-export ES_URL="https://localhost:9200"
-export ES_USER="elastic"
-export ES_PASS="your-password"
-```
+-Create an account on https://www.elastic.co/kibana 
+-Familiarize yourself with basics of the site: we'll be spending most time in 'Elastisearc -> discover', but we'll also use DevTools(the gear icon) to set up our data. 
 
 ---
 
 ## Step 1 — Create the `logs-web` index
 
 The `status_code` field is intentionally mapped as `keyword` (not integer).
-This is deliberate — Module 2 Clip 3 demonstrates how to identify and fix type mismatches.
+This is deliberate — Module 2 demonstrates how to identify and fix type mismatches.
 
 ```bash
 curl -X PUT "$ES_URL/logs-web" \
