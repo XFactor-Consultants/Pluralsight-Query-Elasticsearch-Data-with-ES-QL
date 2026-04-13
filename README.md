@@ -1,4 +1,4 @@
-s
+
 # Course Dataset — Query Elasticsearch Data with ES|QL
 
 This repository contains the synthetic web traffic dataset used throughout the course.
